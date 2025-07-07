@@ -16,7 +16,7 @@
 - ❤️ "Married to statistics, but having a secret affair with code"
 - 🛠️ Exploring **MLOps**, **Forecasting**, **NLP**, **QUANT**
 - 📧 Reach me at: **priompalnfs@yahoo.com**
-- 📃 [Resume](https://github.com/priom14/priom14/blob/main/24N0079-1.pdf)  
+- 📃 [Resume](https://github.com/priom14/priom14/blob/main/24N0079-2.pdf)  
 
 ---
 
