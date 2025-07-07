@@ -55,8 +55,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://dagshub.com/img/favicon.svg" width="40" alt="DagsHub"/>
   <img src="https://github.com/priom14/priom14/blob/main/mlflow.png" width="40"/>
-  <img src="https://github.com/priom14/priom14/blob/main/dvc.jpeg" width="40"/>
-  <img src="https://github.com/priom14/priom14/blob/main/git.png" width="50"/>
+<!--   <img src="https://github.com/priom14/priom14/blob/main/dvc.jpeg" width="40"/> -->
+<!--   <img src="https://github.com/priom14/priom14/blob/main/Untitled%20design.png" width="50"/> -->
 
 <!--   <img src="https://github.com/priom14/priom14/blob/main/5084798-middle.png"/> -->
 <!--   <img src = "https://scikit-learn.org/" , width = "40"> -->
