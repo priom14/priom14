@@ -1,53 +1,67 @@
-# 👋 Hi there, I'm Priom Pal!
+<!-- Banner -->
+<p align="center">
+  <img src="https://your-banner-image-link.com" alt="Banner" width="100%" />
+</p>
 
-🎓 **Statistician by degree** | 💻 **Coder by temptation**  
-🧠 Exploring data with logic, models, and a bit of mischief.
-
----
-
-## 🧬 About Me
-I'm a stats enthusiast who can't resist the occasional late-night coding binge.  
-While statistics is my *true love*, coding keeps sliding into my terminal like:  
-> _"You up?"_
-
-I love solving real-world problems using a mix of probability theory, machine learning, and clever code.
+<h1 align="center">Hi 👋, I'm Priom Pal</h1>
+<h3 align="center">Statistician 📊 | Data Scientist 🧠 | ML Enthusiast 🤖</h3>
 
 ---
 
-## 🛠️ Skills
-**Languages:**  
-`Python` | `R` | `C++` | `SQL`
+### 🔍 About Me
 
-**Tools & Libraries:**  
-`Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn`  
-`Docker` | `AzureML` | `VSCode` | `Git` | `GitHub Actions`
-
-**Domains:**  
-📊 Statistical Modeling | 🔎 Machine Learning | 📈 Time Series | 📦 MLOps | 🧪 Experimental Design
-
----
-
-## 🚀 Projects
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📌 **Breast Cancer Predictor** | Predicts malignancy using ML & EDA | Python, Sklearn |
-| 📌 **Time Series Forecasting** | ARIMA, SARIMA, LSTM models for forecasting | Python |
-| 📌 **Magic Rectangle Detector** | R + Shiny + Streamlit integrated project | R, Streamlit, Shiny |
-| 📌 **Air Quality Classifier** | Classifies safe vs unsafe air using sensor data | Python, DBSCAN |
-
-> ✨ Check out more in the pinned repositories below!
+- 🎓 Currently pursuing **M.Sc. in Statistics** at **IIT Bombay**
+- 💼 **Data Science Intern @ Michelin (May 2025 - July 2025)**
+- 🧠 Passionate about **ML, Time Series Forecasting, and Statistical Modeling**
+- ❤️ "Married to statistics, but having a secret affair with code"
+- 🛠️ Exploring **MLOps**, **OCR + CV pipelines**, and **NLP**
+- 📧 Reach me at: **priompalnfs@yahoo.com**
+- 📃 [Resume](https://your-resume-link.com)  
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/priompal)  
-- 📧 priompalnfs@yahoo.com  
-- 🧠 Portfolio site (Coming Soon!)  
-- ☕ Fun Fact: I debug better with caffeine.
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/priompal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:priompalnfs@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/priompal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-> _“Statistically committed. Programmatically unfaithful.”_ 😏  
-> _— A tale of love, code, and models._
+### 💻 Languages and Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+</p>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priompal&show_icons=true&theme=radical" alt="Priom's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priompal&layout=compact&theme=radical" alt="Priom's Top Languages" height="160"/>
+</p>
+
+---
+
+### 🔥 Fun Fact
+
+> _“Statistically committed. Programmatically unfaithful.”_ 💻❤️📊  
+> Coding is just a fling… that turned into a full-time obsession.
+
