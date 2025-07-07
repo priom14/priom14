@@ -3,8 +3,10 @@
   <img src="https://github.com/priom14/priom14/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Priom Pal</h1>
-<h3 align="center">Statistician 📊 | Data Scientist 🧠 | ML Enthusiast 🤖</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I'm+Priom+Pal;Statistician;Data+Scientist+%2f+ML+enthusiast;Open+to+learn+and+grow" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -33,7 +35,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-![](https://komarev.com/ghpvc/?username=priom14)
+
 
 ---
 
@@ -63,6 +65,7 @@
 <!--   <img src = "https://scikit-learn.org/" , width = "40"> -->
 </p>
 
+
 ---
 
 ### 📊 GitHub Stats
@@ -70,6 +73,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priom14&show_icons=true&theme=radical" alt="Priom's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priom14&layout=compact&theme=radical" alt="Priom's Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priom14&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
