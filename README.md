@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/priom14/priom14/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Priom Pal</h1>
@@ -16,7 +16,7 @@
 - ❤️ "Married to statistics, but having a secret affair with code"
 - 🛠️ Exploring **MLOps**, **Forecasting**, **NLP**, **QUANT**
 - 📧 Reach me at: **priompalnfs@yahoo.com**
-- 📃 [Resume](resume.pdf)  
+- 📃 [Resume](https://github.com/priom14/priom14/blob/main/24N0079-1.pdf)  
 
 ---
 
@@ -54,6 +54,11 @@
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow"/>
   <img src="https://dagshub.com/img/favicon.svg" width="40" alt="DagsHub"/>
+  <img src="https://github.com/priom14/priom14/blob/main/mlflow.png" width="40"/>
+  <img src="https://github.com/priom14/priom14/blob/main/dvc.png" width="40"/>
+  <img src="https://github.com/priom14/priom14/blob/main/git.png" width="40"/>
+
+<!--   <img src="https://github.com/priom14/priom14/blob/main/5084798-middle.png"/> -->
 <!--   <img src = "https://scikit-learn.org/" , width = "40"> -->
 </p>
 
