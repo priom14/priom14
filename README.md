@@ -15,7 +15,6 @@
 - 🎓 Currently pursuing **M.Sc. in Statistics** at **IIT Bombay**
 - 💼 **Data Science Intern @ Michelin (May 2025 - July 2025)**
 - 🧠 Passionate about **ML, Time Series Forecasting, and Statistical Modeling**
-- ❤️ "Married to statistics, but having a secret affair with code"
 - 🛠️ Exploring **MLOps**, **Forecasting**, **NLP**, **QUANT**
 - 📧 Reach me at: **priompalnfs@yahoo.com**
 - 📃 [Resume](https://github.com/priom14/priom14/blob/main/24N0079-2.pdf)  
